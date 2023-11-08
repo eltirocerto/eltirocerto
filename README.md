@@ -53,7 +53,8 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Notion](https://img.shields.io/badge/notion-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black) 
+    ![Notion](https://img.shields.io/badge/notion-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black)
+    ![Trello](https://img.shields.io/badge/trello-%2300ffff.svg?style=for-the-badge&logo=trello&logoColor=white) 
 
 </p>
 
